@@ -1,4 +1,3 @@
-<img align="right" alt="avatar" width="200" src="avatar2.JPG"> 
 
 ## 
  ![](https://img.shields.io/badge/Cyber%20Security-Consultant%20%2F%20Trainer%20%2F%20Engineer%20%2F%20Architect-blue)
@@ -13,33 +12,33 @@
           ⬇️⬇️⬇️ Tum Linkler ⬇️⬇️⬇️
  </tr>
 <tr>
-  <td><a href="https://youtube.com/candeger">
+  <td><a href="https://github.com/Nerfinitium">
 <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
 </a> 
-<td><a href="https://twitch.tv/lunizz">
+<td><a href="https://github.com/Nerfinitium">
 <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white">
 </a>
-<td><a href="https://dc.lunizz.com">
+<td><a href="https://github.com/Nerfinitium">
 <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white">
   </a> </tr>
   <tr>
-<td><a href="https://instagram.com/candeger">
+<td><a href="https://github.com/Nerfinitium">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
 </a> 
-<td><a href="https://twitter.com/CanDeger">
+<td><a href="https://github.com/Nerfinitium">
 <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
 </a>
-<td><a href="https://github.com/lunizz">
+<td><a href="https://github.com/Nerfinitium">
 <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
   </a> </tr>
   <tr>
-<td><a href="https://www.linkedin.com/in/CanDeger/">
+<td><a href="https://github.com/Nerfinitium/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a> 
-<td><a href="mailto:candeger@creatorstation.com">
+<td><a href="https://github.com/Nerfinitium">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
-<td><a href="https://tiktok.com/@can.deger">
+<td><a href="https://github.com/Nerfinitiumr">
 <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white">
 </a>
   </tr>
