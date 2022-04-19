@@ -1,6 +1,6 @@
 <img align="right" alt="avatar" width="200" src="avatar2.JPG"> 
 
-## Beyaz Takkeli Tornaci 👋  Can Deger
+## 
  ![](https://img.shields.io/badge/Cyber%20Security-Consultant%20%2F%20Trainer%20%2F%20Engineer%20%2F%20Architect-blue)
  <!--
  ![](https://img.shields.io/badge/Twitch-Persembe%20--%20Pazar%20Gunleri%20Saat%2020.00-purple)
@@ -44,12 +44,12 @@
 </a>
   </tr>
 </table>
-<a href="https://github.com/LuNiZz/siber-guvenlik-sss"> ❓ SIKCA SORULAN SORULAR ❓ </a>
+<a href="https://enferclient.net"> CLient page </a>
 <br></br>
 
 
-[![Visitor](https://visitor-badge.laobi.icu/badge?page_id=LuNiZz.lunizz)](#)
+[![Visitor](https://visitor-badge.laobi.icu/badge?page_id=Nerfinitium.Nerfinitium)](#)
 
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=lunizz&theme=blue-green">
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=Nerfinitium&theme=blue-green">
 
