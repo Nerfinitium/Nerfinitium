@@ -43,7 +43,7 @@
 </a>
   </tr>
 </table>
-<a href="https://enferclient.net"> CLient page </a>
+<a href="https://enferclient.net"> Enfer Client Page </a>
 <br></br>
 
 
