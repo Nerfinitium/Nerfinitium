@@ -15,7 +15,7 @@
 <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white">
 </a>
 
-<td><a href="https://github.com/Nerfinitium">
+<td><a href="https://discord.com/channels/707287248340779028">
 <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white">
   </a></tr>
 
