@@ -45,7 +45,16 @@
 
  
   <tr>
-   im working on cybersecurity, webdevelopment, gamedevelopment  
+   im working on cybersecurity, webdevelopment, gamedevelopment 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
   <tr>
   
   
