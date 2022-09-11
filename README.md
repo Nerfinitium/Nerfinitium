@@ -44,19 +44,7 @@
 
 
  
-  <tr>
-   im working on cybersecurity, webdevelopment, gamedevelopment 
  
- 
-
- 
- 
- 
- 
- 
- 
-  <tr>
-  
   
   
   
