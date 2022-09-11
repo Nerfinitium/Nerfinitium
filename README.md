@@ -1,6 +1,7 @@
 ## 
  ![](https://img.shields.io/badge/Cyber%20Security-Consultant%20%2F%20Trainer%20%2F%20Engineer%20%2F%20Architect%20%2F%20Developer-blue)
-![](https://img.shields.io/badge/Development-Java%20%2F%20C C++ c#%20%2F%20HTML-PHP-JS-TS%20%2F%20Python-Bash%20%2F%20GO-Elixir-Sql<-blue)
+ ## 
+ ![](https://img.shields.io/badge/Development-Java%20%2F%20C-C++-c#%20%2F%20HTML-PHP-JS-TS%20%2F%20Python-Bash%20%2F%20GO-Elixir-Sql<-blue)
 
 
 <table class="center">
