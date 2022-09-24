@@ -35,8 +35,8 @@
 </table>
 <a href="https://enferclient.net"> Enfer Client Page </a>
 <br></br>
-![profile count](https://komarev.com/ghpvc/?username=Nerfininitium&color=8b72ff)&nbsp; 
 
+![profile count](https://komarev.com/ghpvc/?username=Nerfininitium&color=8b72ff)&nbsp; 
 
 [![And Another one](https://github-readme-stats.vercel.app/api/top-langs/?username=Nerfinitium&theme=dark&count_private=true&show_icons=true&hide_border=true)](#)
 
