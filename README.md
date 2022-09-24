@@ -38,11 +38,8 @@
 
 
  ![profile count](https://komarev.com/ghpvc/?username=Nerfininitium&color=8b72ff)&nbsp; 
-
-
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=Nerfinitium&theme=blue-green"> 
-
-[![Hello some stats](https://github-readme-stats.vercel.app/api?username=Nerfinitium&count_private=true&show_icons=true&theme=dark&hide_border=true)](#)
+[![And Another one](https://github-readme-stats.vercel.app/api/top-langs/?username=Nerfinitium&theme=dark&count_private=true&show_icons=true&hide_border=true)](#)
+[![ehh](https://github-readme-stats.vercel.app/api?username=Nerfinitium&count_private=true&show_icons=true&theme=dark&hide_border=true)](#)
 
 
 
