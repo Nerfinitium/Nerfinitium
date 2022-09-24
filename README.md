@@ -42,6 +42,9 @@
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=Nerfinitium&theme=blue-green"> 
 
+[![Hello some stats](https://github-readme-stats.vercel.app/api?username=Nerfinitium&count_private=true&show_icons=true&theme=dark&hide_border=true)](#)
+
+
 
  
  
