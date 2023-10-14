@@ -14,13 +14,13 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Nerfinitium&theme=dark&hide_border=false)<br/>
 
 
-
+### My Discord Status
 ![Discord Presence](https://lanyard-profile-readme.vercel.app/api/707287248340779028?theme=light&bg=809ecf&animated=false&hideDiscrim=true&borderRadius=30px&idleMessage=Probably%20doing%20something%20else...)
 
 ### 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Nerfinitium&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
-### 🔝 Top Contributed Repo
+### 🔝 Contributed Repos
 ![](https://github-contributor-stats.vercel.app/api?username=Nerfinitium&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
  
