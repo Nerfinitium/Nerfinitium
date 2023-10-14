@@ -12,7 +12,7 @@
 ### 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Nerfinitium&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Nerfinitium&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Nerfinitium&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
 
 
 ![Discord Presence](https://lanyard-profile-readme.vercel.app/api/707287248340779028?theme=light&bg=809ecf&animated=false&hideDiscrim=true&borderRadius=30px&idleMessage=Probably%20doing%20something%20else...)
