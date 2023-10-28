@@ -1,7 +1,7 @@
 ![image](https://github.com/Nerfinitium/Nerfinitium/assets/85024476/cc5c6010-5956-40c8-b0fc-495a46e00551)# Hey im Arch
 
  
- ![](https://img.shields.io/badge/Cyber%20Security-Consultant%20%2F%20Trainer%20%2F%20Engineer%20%2F%20Architect%20%2F%20Developer-purple)
+ //![](https://img.shields.io/badge/Cyber%20Security-Consultant%20%2F%20Trainer%20%2F%20Engineer%20%2F%20Architect%20%2F%20Developer-purple)
 
 <a href="https://nerfinitium.github.io/">Visit My website</a>
 
