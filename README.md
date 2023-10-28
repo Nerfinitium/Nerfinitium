@@ -9,7 +9,6 @@
 ### 100. YILIMIZ KUTLU OLSUN
 
 
-![image](https://iasbh.tmgrup.com.tr/944440/0/0/0/0/0/0?u=https://isbh.tmgrup.com.tr/sb/album/2023/10/27/29-ekim-cumhuriyet-bayrami-mesajlari-resimli-2023-turk-bayragi-ataturk-fotograflari-ile-29-ekim-mesajlari-ve-c-1698403382749.jpg&mw=600)
 
 
 
