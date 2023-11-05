@@ -27,7 +27,8 @@
 ### 🔝 Contributed Repos
 ![](https://github-contributor-stats.vercel.app/api?username=Nerfinitium&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
- 
+<h1>GÜNÜN SÖZÜ:</h1>
+ <p>Sağa sola bakma salak önüne bak.</p>
 
 
 
