@@ -32,3 +32,4 @@
  <p>İtibar sonadır.</p>
  <p>İtibar sona kalır.</p>
  <p>Etme bulma.</p>
+ <p>Fikirlere Kurşun işlemez.</p>
