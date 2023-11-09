@@ -6,7 +6,7 @@
 <a href="https://nerfinitium.github.io/">Visit My website</a>
 
 ### Saygıyla Anıyoruz.
-![image]([https://github.com/Nerfinitium/Nerfinitium/assets/85024476/cc5c6010-5956-40c8-b0fc-495a46e00551](https://samsun.meb.gov.tr/meb_iys_dosyalar/2020_11/09162500_Ata.jpg))
+![image]([[https://github.com/Nerfinitium/Nerfinitium/assets/85024476/cc5c6010-5956-40c8-b0fc-495a46e00551](https://samsun.meb.gov.tr/meb_iys_dosyalar/2020_11/09162500_Ata.jpg)](https://www.emu.edu.tr/media/posts_media/media_1792_tr_1200.jpg?1584889170))
 
 
 ![profile count](https://komarev.com/ghpvc/?username=Nerfininitium&color=8b72ff)&nbsp; 
