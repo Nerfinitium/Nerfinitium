@@ -5,9 +5,9 @@
 
 <a href="https://nerfinitium.github.io/">Visit My website</a>
 
-### 100. YILIMIZ KUTLU OLSUN
-![image](https://github.com/Nerfinitium/Nerfinitium/assets/85024476/cc5c6010-5956-40c8-b0fc-495a46e00551)
-![image](https://iasbh.tmgrup.com.tr/944440/0/0/0/0/0/0?u=https://isbh.tmgrup.com.tr/sb/album/2023/10/27/29-ekim-cumhuriyet-bayrami-mesajlari-resimli-2023-turk-bayragi-ataturk-fotograflari-ile-29-ekim-mesajlari-ve-c-1698403382749.jpg&mw=600)
+### Saygıyla Anıyoruz.
+![image]([https://github.com/Nerfinitium/Nerfinitium/assets/85024476/cc5c6010-5956-40c8-b0fc-495a46e00551](https://samsun.meb.gov.tr/meb_iys_dosyalar/2020_11/09162500_Ata.jpg))
+
 
 ![profile count](https://komarev.com/ghpvc/?username=Nerfininitium&color=8b72ff)&nbsp; 
 ### My knowledge And Skills:
