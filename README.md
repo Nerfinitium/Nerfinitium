@@ -27,9 +27,5 @@
 ### 🔝 Contributed Repos
 ![](https://github-contributor-stats.vercel.app/api?username=Nerfinitium&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-<h1>HAFTANIN SÖZLERİ:</h1>
- <p>Sağa sola bakma salak önüne bak.</p>
- <p>İtibar sonadır.</p>
- <p>İtibar sona kalır.</p>
- <p>Etme bulma.</p>
- <p>Fikirlere Kurşun işlemez.</p>
+<h1>No Air Force can beat my air force</h1>
+<p>None of you can understand what am i doing</p>
