@@ -5,7 +5,7 @@
 
 <a href="https://nerfinitium.github.io/">Visit My website</a>
 
-### Saygı sevgi Ve özlemle Atamızı anıyoruz.
+### Saygı, sevgi Ve özlemle Atamızı anıyoruz.
 ![image](https://www.emu.edu.tr/media/posts_media/media_1792_tr_1200.jpg)
 
 
