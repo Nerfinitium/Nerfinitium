@@ -5,7 +5,7 @@
 
 <a href="https://nerfinitium.github.io/">Visit My website</a>
 
-### Saygı, sevgi Ve özlemle Atamızı anıyoruz.
+### İstikbal Göklerdedir.
 ![image](https://scontent.fsaw2-1.fna.fbcdn.net/v/t1.6435-9/68899250_2287068221607427_6375790380096421888_n.jpg?stp=dst-jpg_p526x296&_nc_cat=102&ccb=1-7&_nc_sid=c2f564&_nc_ohc=vEnkrrwfGkgAX-DP5yl&_nc_ht=scontent.fsaw2-1.fna&oh=00_AfBphaLWZftLXOKoQgjPop-MGUbPqNXhoTr_7-rboQefuQ&oe=657833CE)
 
 
