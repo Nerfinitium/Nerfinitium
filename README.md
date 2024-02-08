@@ -5,7 +5,11 @@
 
 <a href="https://nerfinitium.github.io/">Visit My website</a>
 
-<img align='right' src='https://counter.seku.su/c302?' width='400px'>
+<p align="center">
+  <img src='https://counter.seku.su/cmoe?name=Nerfinitium&theme=r34' width="400px">
+  <img src="https://github-readme-stats.vercel.app/api?username=Nerfinitium&show_icons=true&count_private=true&icon_color=fdd34f&title_color=f75e4f" width="400px"/>
+  <img width="400px" src="./github-metrics.svg" />
+</p>
 
 ![profile count](https://komarev.com/ghpvc/?username=Nerfininitium&color=8b72ff)&nbsp; 
 ### My knowledge And Skills:
