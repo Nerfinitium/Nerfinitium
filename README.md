@@ -5,6 +5,7 @@
 
 <a href="https://nerfinitium.github.io/">Visit My website</a>
 
+<img align='right' src='https://counter.seku.su/c302?' width='400px'>
 
 <p align="center">
   <img src='https://counter.seku.su/cmoe?name=Nerfinitium&theme=r34' width="400px">
