@@ -5,7 +5,7 @@
 
 <a href="https://nerfinitium.github.io/">Visit My website</a>
 
-### The last commit of the year Happy New Year 2024!
+<img align='right' src='https://counter.seku.su/c302?' width='400px'>
 
 ![profile count](https://komarev.com/ghpvc/?username=Nerfininitium&color=8b72ff)&nbsp; 
 ### My knowledge And Skills:
