@@ -5,7 +5,7 @@
 
 <a href="https://nerfinitium.github.io/">Visit My website</a>
 
-![Arch64](http://counter.seku.su/cmoe?name=Nerfinitium)
+![Nerfinitium](http://this.website.com/cmoe?name=Nerfinitium)
 
 
 ---
