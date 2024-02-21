@@ -5,7 +5,7 @@
 
 <a href="https://nerfinitium.github.io/">Visit My website</a>
 
-<img source="https://www.seydisehirgundem.com/images/haber/ataturk-istikbal-goklerdedir-135734-20240216.jpg">
+<img source="https://www.seydisehirgundem.com/images/haber/ataturk-istikbal-goklerdedir-135734-20240216.jpg" />
 
 ---
 ![profile count](https://komarev.com/ghpvc/?username=Nerfininitium&color=8b72ff)&nbsp; 
