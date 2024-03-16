@@ -7,6 +7,9 @@
 
 ![İstikbal Göklerdedir](https://www.seydisehirgundem.com/images/haber/ataturk-istikbal-goklerdedir-135734-20240216.jpg)
 
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nerfinitium&&langs_count=3&card_height=500&card_width=100&title_color=CC88BB&text_color=885566&bg_color=FFFFFF)
+![Wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=Nerfinitium&card_width=250&title_color=CC88BB&langs_count=5&text_color=885566&bg_color=bg_color=FFFFFF)
 ---
 ![profile count](https://komarev.com/ghpvc/?username=Nerfininitium&color=8b72ff)&nbsp; 
 ### My knowledge And Skills:
