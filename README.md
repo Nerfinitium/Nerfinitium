@@ -16,7 +16,7 @@
 ![](https://github-readme-stats.vercel.app/api?username=Nerfinitium&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Nerfinitium&theme=dark&hide_border=false)<br/>
 
-[![Arch's stats](https://github-readme-stats.vercel.app/api/nerfintium?username=ffflabs)](https://github.com/nerfinitium/github-readme-stats)
+[![Arch's stats](https://github-readme-stats.vercel.app/api/nerfinitium?username=ffflabs)](https://github.com/nerfinitium/github-readme-stats)
 
 
 ### My Discord Status
