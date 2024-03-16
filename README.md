@@ -6,6 +6,7 @@
 <a href="https://nerfinitium.github.io/">Visit My website</a>
 
 ![İstikbal Göklerdedir](https://www.seydisehirgundem.com/images/haber/ataturk-istikbal-goklerdedir-135734-20240216.jpg)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nerfinitium&&langs_count=3&card_height=500&card_width=100&title_color=CC88BB&text_color=885566&bg_color=FFFFFF)
 
 ---
 ![profile count](https://komarev.com/ghpvc/?username=Nerfininitium&color=8b72ff)&nbsp; 
