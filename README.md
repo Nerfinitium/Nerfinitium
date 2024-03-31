@@ -7,6 +7,8 @@
 
 ![İstikbal Göklerdedir](https://www.seydisehirgundem.com/images/haber/ataturk-istikbal-goklerdedir-135734-20240216.jpg)
 
+<p align="center"><img src="https://count.getloli.com/get/@:Nerfinitium" alt=":Nerfinitium" /></p>
+
 
 ---
 ![profile count](https://komarev.com/ghpvc/?username=Nerfininitium&color=8b72ff)&nbsp; 
