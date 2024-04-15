@@ -3,8 +3,6 @@
  
 <a href="https://nerfinitium.github.io/">Visit My website</a>
 
-# İSTİKBAL GÖKLERDEDİR
-![İSTİKBAL GÖKLERDEDİR](https://pbs.twimg.com/media/EtSGQfaWYAA1H-x.jpg)
 
 <p align="center"><img src="https://count.getloli.com/get/@:Nerfinitium" alt=":Nerfinitium" /></p>
 
