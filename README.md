@@ -4,7 +4,7 @@
 <a href="https://nerfinitium.github.io/">Visit My website</a>
 
 
-<p align="center"><img src="https://count.getloli.com/get/@:Nerfinitium" alt=":Nerfinitium" /></p>
+<p align="center"><img src="http://arch64.me:3000/get/@:Nerfinitium" alt=":Nerfinitium" /></p>
 
 ---
 
