@@ -2,7 +2,9 @@
  ![](https://img.shields.io/badge/Cyber%20Security-Consultant%20%2F%20Trainer%20%2F%20Engineer%20%2F%20Architect%20%2F%20Developer-purple)
  
 <a href="https://nerfinitium.github.io/">Visit My website</a>
-<a href="http://arch64.me">🚬</a>
+
+
+<a href="http://arch64.me">🚬 Yikilan hayaller</a>
 
 
 <p align="center"><img src="http://arch64.me:3000/get/@:Nerfinitium" alt=":Nerfinitium" /></p>
